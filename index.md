@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Bienvenido a la página personal de Alfredo Solari
 
-You can use the [editor on GitHub](https://github.com/AlfredoSolari/.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En esta página personal habrán en general vínculos a proyectos de secundarios ("side projects"), es decir, código para proyectos que no refieren al centro de mi actividad laboral. No por llamarse secundarios son poco importantes, sino que se llaman así porque no dedico el principal bloque de mis horas pensantes a ellos.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Proyectos:
 
-```markdown
-Syntax highlighted code block
+### Algoritmos genéticos para diseño de circuitos
 
-# Header 1
-## Header 2
-### Header 3
+Pronto se posteará código sobre un algoritmo evolutivo para diseño de circuitos
 
-- Bulleted
-- List
+### Parra
 
-1. Numbered
-2. List
+El proyecto Parra sale de mi proyecto de fin de carrera conjunto con Martín Ottavianelli y Jimena Arruti. El proyecto se encuentra en [Colibrí](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/25780).
 
-**Bold** and _Italic_ and `Code` text
+PARRA: Parra Artífice de Realicaciones Robóticas Artísticas. Es el cerebro de un robot dibujante que utiliza técnicas inspiradas en técnicas de dibujo humanas con un brazo planar de 3 juntas, antroporfo. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Intereses
 
-### Jekyll Themes
+- Modelos computacionales bioinspirados
+	- Algoritmos Evolutivos
+	- Redes Neuronales
+- Hardware-Firmware
+	- FPGA
+	- Sistemas Embebidos
+	- Linux Embebido
+- Procesamiento de Imágenes
+- Procesamiento de señales
+- Arte computacional
+	
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlfredoSolari/.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contacto
+
+Para comunicarse, por favor enviar mail a [alfredo.solari.colombo@gmail.com](mailto:alfredo.solari.colombo@gmail.com).
