@@ -16,6 +16,10 @@ El proyecto Parra sale de mi proyecto de fin de carrera conjunto con Martín Ott
 
 PARRA: Parra Artífice de Realicaciones Robóticas Artísticas. Es el cerebro de un robot dibujante que utiliza técnicas inspiradas en técnicas de dibujo humanas con un brazo planar de 3 juntas, antroporfo. 
 
+El proyecto ganó una mención en los Premios de la Academia Nacional de Ingeniería (ANIU), en el año 2021.
+
+Nos han realizado notas periodisticas que mencionan al proyecto para la Fundación Ricaldoni ([ver aquí](https://www.ricaldoni.org.uy/noticias/674-robot-que-dibuja-parra-ingenieria-uruguay.html)) y para el diario El Observador([ver aquí](https://www.elobservador.com.uy/nota/nuevos-robots-uruguayos-uno-dibuja-y-otro-inspecciona-el-saneamiento-202212613470))
+
 
 ### Intereses
 
